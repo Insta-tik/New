@@ -199,6 +199,8 @@ html {
       .navbar ul {
         gap: 1rem;
       }
+  .hero h1{
+    margin-bottom: 500px;
 }
 
 /* Medium Screens - Tablets */
@@ -285,6 +287,7 @@ html {
   /* Hero Section */
   .hero h1 {
     font-size: 2em;
+    margin-bottom:270px;
   }
 
   .hero p {
